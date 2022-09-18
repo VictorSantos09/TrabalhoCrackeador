@@ -1,0 +1,15 @@
+C:\Users\hyasm\OneDrive\Área de Trabalho\Crackeador\Crackeador\obj\Debug\net6.0\Crackeador.csproj.AssemblyReference.cache
+C:\Users\hyasm\OneDrive\Área de Trabalho\Crackeador\Crackeador\obj\Debug\net6.0\Crackeador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyasm\OneDrive\Área de Trabalho\Crackeador\Crackeador\obj\Debug\net6.0\Crackeador.AssemblyInfoInputs.cache
+C:\Users\hyasm\OneDrive\Área de Trabalho\Crackeador\Crackeador\obj\Debug\net6.0\Crackeador.AssemblyInfo.cs
+C:\Users\hyasm\OneDrive\Área de Trabalho\Crackeador\Crackeador\obj\Debug\net6.0\Crackeador.csproj.CoreCompileInputs.cache
+C:\Users\hyasm\OneDrive\Área de Trabalho\Crackeador\Crackeador\bin\Debug\net6.0\Crackeador.exe
+C:\Users\hyasm\OneDrive\Área de Trabalho\Crackeador\Crackeador\bin\Debug\net6.0\Crackeador.deps.json
+C:\Users\hyasm\OneDrive\Área de Trabalho\Crackeador\Crackeador\bin\Debug\net6.0\Crackeador.runtimeconfig.json
+C:\Users\hyasm\OneDrive\Área de Trabalho\Crackeador\Crackeador\bin\Debug\net6.0\Crackeador.dll
+C:\Users\hyasm\OneDrive\Área de Trabalho\Crackeador\Crackeador\bin\Debug\net6.0\Crackeador.pdb
+C:\Users\hyasm\OneDrive\Área de Trabalho\Crackeador\Crackeador\obj\Debug\net6.0\Crackeador.dll
+C:\Users\hyasm\OneDrive\Área de Trabalho\Crackeador\Crackeador\obj\Debug\net6.0\refint\Crackeador.dll
+C:\Users\hyasm\OneDrive\Área de Trabalho\Crackeador\Crackeador\obj\Debug\net6.0\Crackeador.pdb
+C:\Users\hyasm\OneDrive\Área de Trabalho\Crackeador\Crackeador\obj\Debug\net6.0\Crackeador.genruntimeconfig.cache
+C:\Users\hyasm\OneDrive\Área de Trabalho\Crackeador\Crackeador\obj\Debug\net6.0\ref\Crackeador.dll
